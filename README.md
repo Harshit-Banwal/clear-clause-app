@@ -11,28 +11,28 @@ CLEAR-CLAUSE - Legal Document Risk Analysis Platform.
 
 ## Login page
 
-![Login](https://github.com/Harshit-Banwal/clear-clause-app/assets/login.jpg)
+![Login](https://github.com/Harshit-Banwal/clear-clause-app/blob/main/assets/login.jpg?raw=true)
 
 ## Signup page
 
-![Sign up](https://github.com/Harshit-Banwal/clear-clause-app/assets/signup.jpg)
+![Sign up](https://github.com/Harshit-Banwal/clear-clause-app/blob/main/assets/signup.jpg?raw=true)
 
 ## Home page
 
-![Home Page](https://github.com/Harshit-Banwal/clear-clause-app/assets/home.jpg)
+![Home Page](https://github.com/Harshit-Banwal/clear-clause-app/blob/main/assets/home.jpg?raw=true)
 
 ## Upload Document page
 
-![Upload Document page](https://github.com/Harshit-Banwal/clear-clause-app/assets/upload.jpg)
+![Upload Document page](https://github.com/Harshit-Banwal/clear-clause-app/blob/main/assets/upload.jpg?raw=true)
 
 ## Document Analysis page - I
 
-![Document Analysis page](https://github.com/Harshit-Banwal/clear-clause-app/assets/document1.jpg)
+![Document Analysis page](https://github.com/Harshit-Banwal/clear-clause-app/blob/main/assets/document1.jpg?raw=true)
 
 ## Document Analysis page - II
 
-![Document Analysis page](https://github.com/Harshit-Banwal/clear-clause-app/assets/document2.jpg)
+![Document Analysis page](https://github.com/Harshit-Banwal/clear-clause-app/blob/main/assets/document2.jpg?raw=true)
 
 ## MyDoc page
 
-![MyDoc page](https://github.com/Harshit-Banwal/clear-clause-app/assets/mydoc.jpg)
+![MyDoc page](https://github.com/Harshit-Banwal/clear-clause-app/blob/main/assets/mydoc.jpg?raw=true)
