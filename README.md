@@ -165,7 +165,7 @@ The application consists of multiple components:
 
 ## 🏗️ System Architecture
 
-![System Achitecture Design](https://github.com/Harshit-Banwal/clear-clause-app/blob/main/assets/architecture.jpg?raw=true)
+![System Achitecture Design](https://github.com/Harshit-Banwal/clear-clause-app/blob/main/assets/architecture.png?raw=true)
 
 Clear-Clause is composed of three primary application components.
 
