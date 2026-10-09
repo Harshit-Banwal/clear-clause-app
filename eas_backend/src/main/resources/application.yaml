@@ -1,11 +1,11 @@
 spring:
   application:
     name: Employment Agreement Scan
-    
+
   datasource:
-    url: jdbc:postgresql://localhost:5432/easDB
-    username: postgres
-    password: 151515
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/easDB}
+    username: ${SPRING_DATASOURCE_USERNAME}
+    password: ${SPRING_DATASOURCE_PASSWORD}
 
   jpa:
     hibernate:
@@ -14,7 +14,7 @@ spring:
     properties:
       hibernate:
         format_sql: true
-        
+
 gemini:
   api-key: ${GEMINI_API_KEY}
   model: gemini-2.0-flash
